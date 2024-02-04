@@ -1,0 +1,7 @@
+// o parametro que deve ser utilizado para esconder as pastas que não queremos ver é files.excluide: "**/foldername",
+
+{
+  "files.exclude": {
+    "**/nomedapasta": true // true = não visivel || false = visivel
+  }
+}

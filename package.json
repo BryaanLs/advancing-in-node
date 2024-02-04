@@ -1,0 +1,20 @@
+{
+  "name": "learning-advanced-nodejs",
+  "version": "1.0.0",
+  "description": " This repository was created in order to learn more about advanced nodejs topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryaanLs/learning-advanced-nodejs.git"
+  },
+  "author": "the giants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryaanLs/learning-advanced-nodejs/issues"
+  },
+  "homepage": "https://github.com/BryaanLs/learning-advanced-nodejs#readme"
+}
